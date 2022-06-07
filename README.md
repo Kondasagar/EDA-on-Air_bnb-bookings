@@ -6,4 +6,6 @@ colab note book and data set zip file were added in this repository.
 
 
 
-![Uploading air_bnb_image.png…]()
+
+![air_bnb_image](https://user-images.githubusercontent.com/99146783/172306317-7eb9c1f6-22d5-4bb1-8a6a-b6b90852d1ad.png)
+
